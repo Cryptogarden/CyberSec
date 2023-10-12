@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cryptogarden
-- 👀 I’m interested in cyber security
+- 👀 I’m interested in cybersecurity, data managment, and web apps
 - 🌱 I’m currently learning Sec+
-- 💞️ I’m looking to collaborate on projects.
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me tyler@twindes.com
 
 <!---
